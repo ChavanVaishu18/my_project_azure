@@ -32,6 +32,8 @@ The project makes use of HTML, CSS, and JavaScript to develop a user-friendly an
 
 
 <h3>ScreenShots:</h3>
+![image](https://github.com/ChavanVaishu18/my_project_azure/assets/145122111/cb2206a9-af7f-43ef-b152-5cb6e842442e)
+
 
 <h3></h3>
 
