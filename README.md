@@ -39,21 +39,18 @@ The project makes use of HTML, CSS, and JavaScript to develop a user-friendly an
 
 
 
-<img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/Screenshot%202023-11-22%20170547.png"></img> <br>
-<a href=""></a> <br>
-<a href=""></a> <br>
-<a href=""></a> <br>
-<a href=""></a> <br>
-<a href=""></a> <br>
-<a href=""></a> <br>
-<a href=""></a> <br>
-<a href=""></a> <br>
-<a href=""></a> <br>
-<a href=""></a> <br>
-<a href=""></a> <br>
-<a href=""></a> <br>
-<a href=""></a> <br>
-<a href=""></a> <br>
+<img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/Screenshot%202023-11-22%20170547.png"></img>
+<img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/vm1.png"></img>
+<img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/con_re.png"></img>
+<img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/cont_instance.png"></img>
+<img src=""></img>
+<img src=""></img>
+<img src=""></img>
+<img src=""></img>
+<img src=""></img>
+<img src=""></img>
+<img src=""></img>
+
 
 
 
