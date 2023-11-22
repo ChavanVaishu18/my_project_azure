@@ -32,16 +32,15 @@ The project makes use of HTML, CSS, and JavaScript to develop a user-friendly an
 
 
 <h3>ScreenShots:</h3>
-
-<img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/Screenshot%202023-11-22%20165548.png"></img>
 <img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/vm1.png"></img>
-<img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/con_re.png"></img>
-<img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/cont_instance.png"></img>
+<img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/Screenshot%202023-11-22%20165548.png"></img>
 <img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/Screenshot%202023-11-22%20165806.png"></img>
 <img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/Screenshot%202023-11-22%20170142.png"></img>
 <img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/Screenshot%202023-11-22%20170200.png"></img>
 <img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/Screenshot%202023-11-22%20170547.png"></img>
 <img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/Screenshot%202023-11-22%20170612.png"></img>
+<img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/con_re.png"></img>
+<img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/cont_instance.png"></img>
 <img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/Screenshot%202023-11-22%20171141.png"></img>
 <img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/Screenshot%202023-11-22%20171214.png"></img>
 <img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/Screenshot%202023-11-22%20171234.png"></img>
