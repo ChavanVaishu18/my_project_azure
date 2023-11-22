@@ -39,7 +39,7 @@ The project makes use of HTML, CSS, and JavaScript to develop a user-friendly an
 
 
 
-<a href="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/Screenshot%202023-11-22%20170547.png"></a> <br>
+<img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/Screenshot%202023-11-22%20170547.png"></img> <br>
 <a href=""></a> <br>
 <a href=""></a> <br>
 <a href=""></a> <br>
