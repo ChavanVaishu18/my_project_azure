@@ -4,7 +4,7 @@
 <a href="hotel-app.gra6b3dcb5b6g8bm.eastus.azurecontainer.io">hotel-app.gra6b3dcb5b6g8bm.eastus.azurecontainer.io</a>
 
 <h3>Video Implemetation:</h3>
-<a href="https://drive.google.com/file/d/1IL4d3VKaZDTUnVarsuAhfYK5nM85e0Il/view?usp=sharing"</a>
+<a href="https://drive.google.com/file/d/1IL4d3VKaZDTUnVarsuAhfYK5nM85e0Il/view?usp=sharing">https://drive.google.com/file/d/1IL4d3VKaZDTUnVarsuAhfYK5nM85e0Il/view?usp=sharing</a>
 
 <h3>Industry:</h3>
 Hotel
