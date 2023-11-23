@@ -30,38 +30,55 @@ The project makes use of HTML, CSS, and JavaScript to develop a user-friendly an
 
 <h3>ScreenShots:</h3>
 Step1:Creating Virtual Machine
+<br>
+<br>
 <img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/vm1.png"></img>
 <br>
 <br>
 Step2:updating get 
+<br>
+<br>
 <img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/Screenshot%202023-11-22%20165548.png"></img>
 <br>
 <br>
 Step3:installing  Docker
+<br>
+<br>
 <img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/Screenshot%202023-11-22%20165806.png"></img>
 <br>
 <br>
 Step4: Unable and checking status of Dockar
+<br>
+<br>
 <img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/Screenshot%202023-11-22%20170142.png"></img>
 <br>
 <br>
 Step5:Docker Connecting
+<br>
+<br>
 <img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/Screenshot%202023-11-22%20170200.png"></img>
 <br>
 <br>
-Step6:Cheking id
+Step6:Cheking id 
+<br>
+<br>
 <img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/Screenshot%202023-11-22%20170612.png"></img>
 <br>
 <br>
 Step7:Container registries creating
+<br>
+<br>
 <img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/con_re.png"></img>
 <br>
 <br>
 Step8:Container instances created
+<br>
+<br>
 <img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/cont_instance.png"></img>
 <br>
 <br>
 Step9:Website Outputs
+<br>
 <img src="https://github.com/ChavanVaishu18/my_project_azure/blob/master/assets/Screenshot%202023-11-22%20171141.png"></img>
 <br>
 <br>
